@@ -12,3 +12,5 @@
     * [3.1 Redis数据类型及基本操作](chapter03/3.1-redis-data-types.md)
     * [3.2 Redis常见问题](chapter03/3.2-problems.md)
     * [3.3 Redis分布式高可用](chapter03/3.3-redis-ha.md)
+* [第八章：计算机基础](chapter09/README.md)
+    * [8.1 寄存器](chapter08/8.1-register.md)
